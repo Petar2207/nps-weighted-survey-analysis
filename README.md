@@ -110,4 +110,4 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 ## 👤 Author
 
-[Your Name Here]
+Petar Rajic
